@@ -25,6 +25,8 @@ Some glimpse's
 
 ![Lane Detection and Object Warning](https://github.com/Poornima855/Closed-loop-ADAS-for-a-wheeled-robot/blob/main/Realtime_ResultFrame.png)
 
+We tested on tracks since we couldn't find white lanes which are this much clear
+
 ## 📌 Notes & Limitations
 
 - Camera calibration is approximate – for real deployment, use proper calibration matrices.
